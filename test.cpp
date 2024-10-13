@@ -1,2 +1,2 @@
-test
+:qtest
 hmm
